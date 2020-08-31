@@ -2,7 +2,7 @@
 
 This repository is a case study of microservice spring using spring cloud. 
 
-In project exists two  microservices(order and payment).
+In project there are two microservices(order and payment).
 
 The tecnology apply are:
 
