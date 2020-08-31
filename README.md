@@ -17,9 +17,10 @@ The tecnology apply are:
   Spring cloud gateway
   Spring cloud hystrix
   Spring cloud hystrix dashboard
-  
+
+Below the model of architecture:
 <h1 align="center">
-    <img alt="Model" title="#Model" src="github/2020-08-30.jpg" width="250px" />
+    <img alt="Model" title="#Model" src="github/2020-08-30.jpg" width="1000px" />
 </h1>
   
   
